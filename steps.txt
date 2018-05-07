@@ -1,0 +1,6 @@
+Open the URL: "https://kinolien.github.io/gitzip/" on your browser.
+Press the key button and enter it: c251775d2fa802c7d44aea642e8cb10a4920890b
+Enter the URL at the side of the key: https://github.com/3parstats/3parstats_modified
+Press Enter or download to download the files to our computer.
+
+Now run the script "sftp_to_3PAR.py" to send the scripts to 3PAR.
